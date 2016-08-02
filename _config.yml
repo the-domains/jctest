@@ -6,9 +6,9 @@ color:
   saturation: 0.27246908633969724
   rhythmicContrast: 0.6818403697106987
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 name: jctest
