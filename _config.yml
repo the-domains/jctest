@@ -19,11 +19,11 @@ navigation:
   - name: Post 1
     id: 55f0990a-23ad-4fdb-a130-db34cbae8046
     type: content
-  - name: strange post
-    id: 32741e90-4da2-40d0-98dd-68821c409f31
-    type: content
   - name: bed time
     id: c2db939f-89ed-4d88-a7ed-ba3fc85b60df
+    type: content
+  - name: strange post
+    id: 32741e90-4da2-40d0-98dd-68821c409f31
     type: content
 title: Energy and Telecomm Consulting
 description: testing it now
