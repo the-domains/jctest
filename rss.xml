@@ -4,7 +4,7 @@
         <description><![CDATA[Energy and Telecomm Consulting]]></description>
         <link>https://thegrid.ai/jctest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 00:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 00:59:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jctest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Post 1]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/36367cf8-6bfb-4385-9ec0-a81195c26771.jpg</link>
             <guid isPermaLink="false">55f0990a-23ad-4fdb-a130-db34cbae8046</guid>
             <pubDate>Thu, 18 Aug 2016 00:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0fc701a-f1ca-477d-a4b4-8d36488d70b7.jpg">]]></description>
-            <link>https://thegrid.ai/jctest/32741e90-4da2-40d0-98dd-68821c409f31/index.html</link>
-            <guid isPermaLink="false">32741e90-4da2-40d0-98dd-68821c409f31</guid>
-            <pubDate>Thu, 18 Aug 2016 00:44:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
