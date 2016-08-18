@@ -25,5 +25,8 @@ navigation:
   - name: strange post
     id: 32741e90-4da2-40d0-98dd-68821c409f31
     type: content
+  - name: Campaign
+    id: 3c885e2d-d156-4522-ad1f-de18da9f06e2
+    type: content
 title: Energy and Telecomm Consulting
 description: testing it now
