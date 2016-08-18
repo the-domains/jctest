@@ -11,6 +11,9 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.9593135595787317
-name: jctest
+author:
+  name: DareUC
+  email: jmcusack@dareuc.com
+name: jctest2
 title: Energy
 description: test it now
