@@ -30,17 +30,14 @@ app_links:
     package: com.cnn.mobile.android.phone
     namespace: google
     type: android
-isBasedOnUrl: >-
-  http://www.cnn.com/2016/08/17/politics/kellyanne-conway-donald-trump/index.html
 title: Meet the woman tapped to help save Trump's campaign
-datePublished: '2016-08-18T01:54:29.435Z'
-dateModified: '2016-08-18T01:51:31.422Z'
+datePublished: '2016-08-18T01:55:24.543Z'
+dateModified: '2016-08-18T01:55:24.246Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-meet-the-woman-tapped-to-help-save-trumps-campaign.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: meet-the-woman-tapped-to-help-save-trumps-campaign/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
