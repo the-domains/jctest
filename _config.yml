@@ -1,4 +1,3 @@
-layout_spectrum: 0.9593135595787317
 typography_spectrum: 0.4284014869481325
 color:
   brandStrength: 0.14469005702994764
@@ -11,5 +10,6 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.9593135595787317
 name: jctest
-description: test now
+description: test it now
