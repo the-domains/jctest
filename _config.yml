@@ -16,11 +16,11 @@ author:
   email: jmcusack@dareuc.com
 name: jctest2
 navigation:
-  - name: strange post
-    id: 32741e90-4da2-40d0-98dd-68821c409f31
-    type: content
   - name: Post 1
     id: 55f0990a-23ad-4fdb-a130-db34cbae8046
+    type: content
+  - name: strange post
+    id: 32741e90-4da2-40d0-98dd-68821c409f31
     type: content
 title: Energy and Telecomm Consulting
 description: testing it now
